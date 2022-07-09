@@ -1,4 +1,3 @@
-from operator import ge
 from requests_html import HTMLSession
 import json, sys
 
